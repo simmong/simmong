@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Simmon Gozali!!
+Hi, I'm Simmon Gozali!!<br>
 🔭 I’m currently student.
 
 
