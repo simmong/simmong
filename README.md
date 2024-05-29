@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Simmon Gozali!!<br>
-🔭 I’m currently student.
+I’m currently student.
 
 
 ## 🌐 Socials:
